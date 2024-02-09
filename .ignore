@@ -1,0 +1,4 @@
+.ignore
+.install.ps1
+.postinstall.ps1
+.git/
